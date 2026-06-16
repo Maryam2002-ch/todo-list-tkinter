@@ -35,5 +35,6 @@ Python 3
 tkinter (GUI)
 
 JSON (data storage)
+
 ---
 ⭐ If you found this project helpful, give it a star!

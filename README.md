@@ -18,7 +18,7 @@ Your tasks are automatically saved in a JSON file and loaded when you open the a
 3. Run the program:
 
 ```bash
-python todo.py
+python todo_list.py
 ```
 ## 📝 How to Use
 Type your task in the text field
